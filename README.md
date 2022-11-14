@@ -1,7 +1,7 @@
 # DownloadManager
 Program that automatically moves files to correct folders
 
-# Instructions
+## Instructions
 • Download main.pyw
 
 • Install shutil/watchdogs
